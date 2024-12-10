@@ -15,10 +15,10 @@ The project aims to automate the identification of blood groups by combining Dja
 
 **MILESTONES**
 
-1.	The system allows users to create an account on the registration page, log in to their account to access the profile page, and upload images on the profile page for          identification.
-2.	Implemented OpenCV functions to process and analyze the images, determining the basic conditions for identifying the blood type.
+1.	The system allows users to create an account on the registration page, log in to their account to access the profile         page, and upload images on the profile page for identification.
+2.	Implemented OpenCV functions to process and analyze the images, determining the basic conditions for identifying the 		 		blood type.
 3.	Implemented the functions to process and display the uploaded images on the web page with contours.
-4.	Executed morphological operations to structure the uploaded images, performed agglutination analysis, and identified the blood type.
+4.	Executed morphological operations to structure the uploaded images, performed agglutination analysis, and identified the 		blood type.
 
 **PROJECT VISUALS**
 
